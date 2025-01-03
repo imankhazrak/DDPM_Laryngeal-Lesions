@@ -15,7 +15,7 @@ conda env create -f environment.yml
 conda activate laryngeal-env
 ```
 
-## Results
+<!-- ## Results
 
 ### Key Findings
 - **Synthetic Dataset**: A total of 4,180 high-quality synthetic images were generated and reviewed by experts to ensure anatomical fidelity.
@@ -37,13 +37,13 @@ conda activate laryngeal-env
 
 #### Confusion Matrices
 <!-- ![alt text](<Figures/Confusion matrix.png>) -->
-<img src="Figures/Confusion matrix.png" alt="Confusion Matrix" width="500">
+<!-- <img src="Figures/Confusion matrix.png" alt="Confusion Matrix" width="500"> -->
 
 
 
-#### FID Scores
+<!-- #### FID Scores -->
 
-<img src="Figures/FID.png" alt="FID Scores" width="500">
+<!-- <img src="Figures/FID.png" alt="FID Scores" width="500"> --> 
 
 ## Usage
 
