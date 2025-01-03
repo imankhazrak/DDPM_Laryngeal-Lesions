@@ -2,9 +2,9 @@
 
 This repository contains the implementation and resources for the paper **"Feasibility of Improving Vocal Fold Structural Pathology Image Classification by Generating Synthetic Images Using Denoising Diffusion Probabilistic Models: A Pilot Study."**
 
-## About the Paper
+<!-- ## About the Paper
 
-This study addresses the challenges of imbalanced datasets in vocal fold (VF) pathology classification by leveraging Denoising Diffusion Probabilistic Models (DDPMs) to generate high-quality synthetic images. Using a dataset of 404 laryngoscopic images, DDPMs augmented the data to improve model training. Two convolutional neural networks, VGG16 and ResNet50, were evaluated for binary (with/without pathology) and multi-class (seven pathologies) classification tasks. Models trained solely on the original dataset failed to converge, while those trained on the augmented dataset achieved significant improvements in accuracy and loss. These findings demonstrate the feasibility of DDPM-generated synthetic images in enhancing VF pathology classification and supporting voice disorder diagnosis.
+This study addresses the challenges of imbalanced datasets in vocal fold (VF) pathology classification by leveraging Denoising Diffusion Probabilistic Models (DDPMs) to generate high-quality synthetic images. Using a dataset of 404 laryngoscopic images, DDPMs augmented the data to improve model training. Two convolutional neural networks, VGG16 and ResNet50, were evaluated for binary (with/without pathology) and multi-class (seven pathologies) classification tasks. Models trained solely on the original dataset failed to converge, while those trained on the augmented dataset achieved significant improvements in accuracy and loss. These findings demonstrate the feasibility of DDPM-generated synthetic images in enhancing VF pathology classification and supporting voice disorder diagnosis. -->
 
 ## Installation
 
