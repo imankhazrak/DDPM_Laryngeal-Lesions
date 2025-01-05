@@ -13,6 +13,8 @@
 # Ignore PDF files
 *.pdf
 
+Documents
+
 # Section 2: Created by gitignore.io
 # Created by https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks,venv,visualstudiocode,windows,macos,linux
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,jupyternotebooks,venv,visualstudiocode,windows,macos,linux
