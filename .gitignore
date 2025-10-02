@@ -9,6 +9,7 @@
 # Ignore Word files
 *.docx
 *.doc
+*.pdf
 Latex/
 
 
