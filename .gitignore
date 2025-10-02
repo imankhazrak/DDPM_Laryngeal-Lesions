@@ -9,6 +9,8 @@
 # Ignore Word files
 *.docx
 *.doc
+Latex/
+
 
 # Ignore PDF files
 *.pdf
