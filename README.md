@@ -1,6 +1,6 @@
 # Enhancing Laryngeal Lesions Image Classification with Synthetic Data
 
-This repository contains the implementation and resources for the paper **"Feasibility of Improving Vocal Fold Structural Pathology Image Classification by Generating Synthetic Images Using Denoising Diffusion Probabilistic Models: A Pilot Study."**
+This repository contains the implementation and resources for the paper **["Feasibility of Improving Vocal Fold Structural Pathology Image Classification by Generating Synthetic Images Using Denoising Diffusion Probabilistic Models: A Pilot Study."](https://link.springer.com/article/10.1007/s00405-025-09443-4)**
 
 ## Authors
 
