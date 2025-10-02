@@ -49,13 +49,13 @@ conda activate ddpm_pytorch
 <img src="Figures/training and validation loss and accuracy.png" alt="Training Loss and Accuracy" width="500">
 
 #### Visual Appearance of Pathologies
-<img src="Latex/Example.png" alt="Visual appearance of VF structural pathologies and non-pathologic VFs" width="700">
+<img src="Figures/Example.png" alt="Visual appearance of VF structural pathologies and non-pathologic VFs" width="700">
 
 #### Unrealistic Synthetic Images (Removed)
-<img src="Latex/Unreal.png" alt="Examples of unrealistic synthetic images removed during curation" width="700">
+<img src="Figures/Unreal.png" alt="Examples of unrealistic synthetic images removed during curation" width="700">
 
 #### Original vs Synthetic Examples
-<img src="Latex/org-syn.png" alt="Original and DDPM-generated synthetic images side by side" width="700">
+<img src="Figures/org-syn.png" alt="Original and DDPM-generated synthetic images side by side" width="700">
 
 #### Binary Classification Results
 <img src="Figures/result_binary.png" alt="Binary Classification" width="500">
@@ -64,7 +64,7 @@ conda activate ddpm_pytorch
 <img src="Figures/result_multy.png" alt="Multiple Classification" width="500">
 
 #### Confusion Matrices
-<img src="Latex/Confusion matrix.png" alt="Confusion matrices for top-performing models" width="700">
+<img src="Figures/Confusion matrix.png" alt="Confusion matrices for top-performing models" width="700">
 
 ## Usage
 
