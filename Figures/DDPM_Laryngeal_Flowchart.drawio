@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.3">
+  <diagram id="doBwjkeHNVg6btvtFzxZ" name="Page-1">
+    <mxGraphModel dx="989" dy="509" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="17" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.partConcEllipse;startAngle=0.75;endAngle=0.5;arcWidth=0.25;fillColor=#10739E;strokeColor=none;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="268" y="87" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="18" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.partConcEllipse;startAngle=0.25;endAngle=0;arcWidth=0.25;fillColor=#F2931E;strokeColor=none;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="268" y="192" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="19" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.partConcEllipse;startAngle=0.75;endAngle=0.5;arcWidth=0.25;fillColor=#AE4132;strokeColor=none;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="373" y="192" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="20" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.partConcEllipse;startAngle=0.25;endAngle=0;arcWidth=0.25;fillColor=#23445D;strokeColor=none;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="373" y="297" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="21" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.partConcEllipse;startAngle=0.75;endAngle=0.5;arcWidth=0.25;fillColor=#12AAB5;strokeColor=none;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="478" y="297" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="22" value="1" style="shape=ellipse;strokeWidth=6;strokeColor=#10739E;fontSize=15;html=1;whiteSpace=wrap;fontStyle=1;fontColor=#10739E;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="303" y="122" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="23" value="2" style="shape=ellipse;strokeWidth=6;strokeColor=#F2931E;fontSize=15;html=1;whiteSpace=wrap;fontStyle=1;fontColor=#F2931E;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="303" y="227" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="24" value="3" style="shape=ellipse;strokeWidth=6;strokeColor=#AE4132;fontSize=15;html=1;whiteSpace=wrap;fontStyle=1;fontColor=#AE4132;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="408" y="227" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="25" value="4" style="shape=ellipse;strokeWidth=6;strokeColor=#23445D;fontSize=15;html=1;whiteSpace=wrap;fontStyle=1;fontColor=#23445D;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="408" y="332" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="26" value="5" style="shape=ellipse;strokeWidth=6;strokeColor=#12AAB5;fontSize=15;html=1;whiteSpace=wrap;fontStyle=1;fontColor=#12AAB5;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="513" y="332" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="27" value="&lt;font style=&quot;line-height: 130%; color: rgb(0, 0, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;Data Collection&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;line-height: 130%;&quot;&gt;&lt;div&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&amp;nbsp;607 &lt;font&gt;C&lt;span&gt;aptured&lt;/span&gt;&lt;/font&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;Videos.&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp;404 &lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Extracted&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;Images from the Videos&lt;/span&gt;&lt;span style=&quot;text-align: left; background-color: transparent; font-size: x-small; line-height: 130%;&quot;&gt;.&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;spacing=3;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="398" y="94" width="260" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="28" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;line-height: 130%;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;span&gt;Original Dataset Curation&lt;/span&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;br&gt;Reviewed &amp;amp; Labeled Independently&lt;br&gt;&amp;nbsp;By 2 SLP Ph.D. Students&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;spacing=3;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="78" y="197" width="180" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="29" value="&lt;font style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;DDPM Training &amp;amp; Synthetic Image Generation&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ol style=&quot;line-height: 130%;&quot;&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Trained DDPM Model on the Original Dataset.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;Generated Synthetic Images for each Pathology&lt;b&gt;&amp;nbsp;C&lt;/b&gt;lass.&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="rounded=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;spacing=3;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="503" y="187" width="347" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="30" value="&lt;span style=&quot;scrollbar-color: light-dark(#e2e2e2, #4b4b4b)&lt;br/&gt;&#x9;&#x9;&#x9;&#x9;&#x9;light-dark(#fbfbfb, var(--dark-panel-color)); line-height: 130%;&quot;&gt;&lt;span style=&quot;scrollbar-color: light-dark(#e2e2e2, #4b4b4b)&lt;br/&gt;&#x9;&#x9;&#x9;&#x9;&#x9;light-dark(#fbfbfb, var(--dark-panel-color));&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;scrollbar-color: light-dark(#e2e2e2, #4b4b4b)&lt;br/&gt;&#x9;&#x9;&#x9;&#x9;&#x9;light-dark(#fbfbfb, var(--dark-panel-color));&quot;&gt;Synthetic&lt;/span&gt;&amp;nbsp;Dataset Curation&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;&lt;br style=&quot;color: rgb(63, 63, 63); scrollbar-color: light-dark(#e2e2e2, #4b4b4b)&lt;br/&gt;&#x9;&#x9;&#x9;&#x9;&#x9;light-dark(#fbfbfb, var(--dark-panel-color));&quot;&gt;&lt;div style=&quot;text-align: left; line-height: 130%;&quot;&gt;&lt;ol&gt;&lt;li&gt;DDPM Images Reviewed by SLP Experts.&lt;/li&gt;&lt;li&gt;Unrealistic Samples Removed.&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;spacing=3;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="78" y="329" width="284" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="31" value="&lt;font style=&quot;line-height: 130%;&quot;&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span&gt;Model Training &amp;amp; Evaluation&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Baseline Training on Original Data&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Training with Augmented Datasets&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Binary Classification (Normal vs. Pathology)&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Multi-class Classification (7 VFSP Types)&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Performance Evaluation (Accuracy, F1, FID, etc.)&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/font&gt;" style="rounded=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;spacing=3;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="608" y="297" width="321" height="121" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
